@@ -1,3 +1,4 @@
+#simple class that handles authentication
 from datetime import timedelta
 from django.utils import timezone
 from django.conf import settings
